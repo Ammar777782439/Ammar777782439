@@ -33,7 +33,7 @@
   - ⚡ In my free time, I build side projects, explore new technologies, and improve my problem-solving skills<br><br>
   📫 You can find me here:<br>
   - 🌐 <a href="https://your-portfolio-link.com" target="_blank">My Portfolio</a><br>
-  - 💼 <a href="https://www.linkedin.com/in/your-link" target="_blank">LinkedIn</a><br>
+  - 💼 <a href="[https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/ammar-rajeh-902048255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">LinkedIn</a><br>
   - 🧑‍💻 <a href="https://github.com/your-github" target="_blank">GitHub</a><br>
 </p>
 

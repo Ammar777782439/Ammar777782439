@@ -30,7 +30,11 @@
   I'm Ammar Ragha from Yemen <br><br>
   - 🔭 I’m working as a backend developer specializing in Information Technology<br>
   - 📚 I'm currently learning advanced backend frameworks, API development, and real-time systems like Kafka and WebSockets<br>
-  - ⚡ In my free time, I build side projects, explore new technologies, and improve my problem-solving skills
+  - ⚡ In my free time, I build side projects, explore new technologies, and improve my problem-solving skills<br><br>
+  📫 You can find me here:<br>
+  - 🌐 <a href="https://your-portfolio-link.com" target="_blank">My Portfolio</a><br>
+  - 💼 <a href="https://www.linkedin.com/in/your-link" target="_blank">LinkedIn</a><br>
+  - 🧑‍💻 <a href="https://github.com/your-github" target="_blank">GitHub</a><br>
 </p>
 
 ###

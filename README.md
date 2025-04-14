@@ -26,7 +26,12 @@
 
 ###
 
-<p align="left">I'm Ammar Ragha from Yemen <br><br>- 🔭 I’m working as programing <br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">
+  I'm Ammar Ragha from Yemen <br><br>
+  - 🔭 I’m working as a backend developer specializing in Information Technology<br>
+  - 📚 I'm currently learning advanced backend frameworks, API development, and real-time systems like Kafka and WebSockets<br>
+  - ⚡ In my free time, I build side projects, explore new technologies, and improve my problem-solving skills
+</p>
 
 ###
 

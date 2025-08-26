@@ -1,76 +1,65 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img src="https://katsuharu.github.io/header-generator/header.svg?title=Ammar%20Ragha&description=Backend%20Developer%20%7C%20Go%20Enthusiast&icon=go,docker,postgresql&color=4169E1&style=for-the-badge" alt="Ammar Ragha - Backend Developer Banner"/>
 </div>
-
-###
-
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="https://www.linkedin.com/in/ammar-rajeh-902048255/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="https://twitter.com/your-twitter-handle" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
+  </a>
 </div>
 
-###
+---
 
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <h1 align="center">Hey there, I'm Ammar 👋</h1>
+      <h3 align="left">👨‍💻 About Me</h3>
+      <p align="left">
+        I'm a Backend Developer from Yemen, passionate about building scalable, high-performance web applications and APIs. I enjoy solving complex problems and turning ideas into robust software.
+        <br><br>
+        - 🔭 I’m currently building backend services and focusing on <strong>clean architecture</strong>.
+        <br>
+        - 🌱 I’m diving deep into <strong>Go (Golang)</strong> to build concurrent systems and high-performance REST APIs.
+        <br>
+        - 👯 I’m looking to collaborate on open-source projects related to distributed systems or API development.
+        <br>
+        - 📫 How to reach me: <strong>ammarragha@gmail.com</strong>
+      </p>
+    </td>
+    <td valign="top" width="40%">
+      <img src="https://github-readme-stats.vercel.app/api?username=Ammar777782439&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Ammar's GitHub Stats" />
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar777782439&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ammar777782439.Ammar777782439&"  />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ammar777782439&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
+<h3 align="left">🛠️ My Tech Stack</h3>
 <p align="left">
-  I'm Ammar Ragha from Yemen <br><br>
-  - 🔭 I’m working as a backend developer specializing in Information Technology<br>
-  - 📚 I'm currently learning advanced backend frameworks, API development, and real-time systems like Kafka and WebSockets<br>
-  - ⚡ In my free time, I build side projects, explore new technologies, and improve my problem-solving skills<br><br>
-  📫 You can find me here:<br>
-  - 🌐 <a href="https://your-portfolio-link.com" target="_blank">My Portfolio</a><br>
-  - 💼 <a href="[https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/ammar-rajeh-902048255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">LinkedIn</a><br>
-  - 🧑‍💻 <a href="https://github.com/your-github" target="_blank">GitHub</a><br>
+  <strong>Backend:</strong><br>
+  <a href="https://go.dev/" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"></a>
+  <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></a>
+  <br><br>
+  <strong>Databases:</strong><br>
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
+  <br><br>
+  <strong>Frontend:</strong><br>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></a>
+  <br><br>
+  <strong>Tools & DevOps:</strong><br>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
 </p>
 
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ammar777782439&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ammar777782439&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph" />
+</p>

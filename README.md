@@ -10,7 +10,7 @@
   </a>
 </div>
 
----
+
 
 <table>
   <tr>
@@ -42,6 +42,7 @@
 
 <h3 align="left">🛠️ My Tech Stack</h3>
 <p align="left">
+  
   <strong>Backend:</strong><br>
   <a href="https://go.dev/" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"></a>
   <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"></a>
@@ -59,7 +60,16 @@
   <strong>Tools & DevOps:</strong><br>
   <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
 </p>
-
+<h3 align="left">🚀 My Learning Roadmap</h3>
+<p align="left">
+  I believe in continuous learning. Here are the technologies I'm excited to dive into next:
+  <br><br>
+  - <strong>gRPC:</strong> For high-performance, language-agnostic communication between microservices.
+  <br>
+  - <strong>Apache Kafka:</strong> To build robust, scalable event-driven architectures.
+  <br>
+  - <strong>Elasticsearch:</strong> To implement powerful, full-text search capabilities in my projects.
+</p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ammar777782439&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph" />
 </p>

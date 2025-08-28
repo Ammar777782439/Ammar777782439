@@ -5,11 +5,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:ammarraghabusiness@gmail.com)
 
 <p style="text-align: justify; font-size: 16px;" >
-   [span_0](start_span)<p>I’m a Backend Developer specializing in building secure, scalable, and production-ready systems.[span_0](end_span) [span_1](start_span)[span_2](start_span)My core expertise lies in designing robust system architectures and ensuring data integrity from end to end.[span_1](end_span)[span_2](end_span)</p>
+   [span_0](start_span)<p>I’m a Backend Developer specializing in building secure, scalable, and production-ready systems[span_0](end_span). [span_1](start_span)My core expertise lies in designing robust system architectures and ensuring data integrity from end to end[span_1](end_span).</p>
 
-   <p>I believe that a great backend is not just about writing functional code, but about engineering systems that are resilient and efficient. [span_3](start_span)[span_4](start_span)[span_5](start_span)My focus is on creating high-performance APIs, implementing fault-tolerant messaging systems with tools like <b>Apache Kafka</b>, and containerizing applications with <b>Docker</b> for seamless deployment and scalability.[span_3](end_span)[span_4](end_span)[span_5](end_span)</p>
+   <p>I believe that a great backend is not just about writing functional code, but about engineering systems that are resilient and efficient. My focus is on creating high-performance APIs, implementing fault-tolerant messaging systems with tools like <b>Apache Kafka</b>, and containerizing applications with <b>Docker</b> for seamless deployment and scalability.</p>
 
-   [span_6](start_span)[span_7](start_span)<p>At <a href="https://deepsafer.com/" target="_blank">Deepsafer</a>, I apply my passion for security by designing and developing backend infrastructure for cybersecurity applications, building secure APIs, and implementing advanced measures to protect systems from cyber threats.[span_6](end_span)[span_7](end_span) My goal is to build backend systems that don't just work, but are fundamentally secure and built to last 🛡️.</p>
+   [span_2](start_span)<p>At <a href="https://deepsafer.com/" target="_blank">Deepsafer</a>, I apply my passion for security by designing and developing backend infrastructure for cybersecurity applications[span_2](end_span)[span_3](start_span), building secure APIs[span_3](end_span)[span_4](start_span)[span_5](start_span), and implementing advanced measures to protect systems from cyber threats[span_4](end_span)[span_5](end_span). My goal is to build backend systems that don't just work, but are fundamentally secure and built to last 🛡️.</p>
 </p>    
 
 <br/>

@@ -1,75 +1,63 @@
-<div align="center">
-  <img src="https://katsuharu.github.io/header-generator/header.svg?title=Ammar%20Ragha&description=Backend%20Developer%20%7C%20Go%20Enthusiast&icon=go,docker,postgresql&color=4169E1&style=for-the-badge" alt="Ammar Ragha - Backend Developer Banner"/>
-</div>
-<div align="center">
-  <a href="https://www.linkedin.com/in/ammar-rajeh-902048255/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://twitter.com/your-twitter-handle" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
-  </a>
-</div>
+# Hey 👋, This is Ammar Rajeh 👨🏻‍💻!
 
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:ammarraghabusiness@gmail.com)
 
+<p style="text-align: justify; font-size: 16px;" >
+   [span_0](start_span)<p>I’m a Backend Developer specializing in building secure, scalable, and production-ready systems.[span_0](end_span) [span_1](start_span)[span_2](start_span)My core expertise lies in designing robust system architectures and ensuring data integrity from end to end.[span_1](end_span)[span_2](end_span)</p>
 
-<table>
-  <tr>
-    <td valign="top" width="60%">
-      <h1 align="center">Hey there, I'm Ammar 👋</h1>
-      <h3 align="left">👨‍💻 About Me</h3>
-      <p align="left">
-        I'm a Backend Developer from Yemen, passionate about building scalable, high-performance web applications and APIs. I enjoy solving complex problems and turning ideas into robust software.
-        <br><br>
-        - 🔭 I’m currently building backend services and focusing on <strong>clean architecture</strong>.
-        <br>
-        - 🌱 I’m diving deep into <strong>Go (Golang)</strong> to build concurrent systems and high-performance REST APIs.
-        <br>
-        - 👯 I’m looking to collaborate on open-source projects related to distributed systems or API development.
-        <br>
-        - 📫 How to reach me: <strong>ammarragha@gmail.com</strong>
-      </p>
-    </td>
-    <td valign="top" width="40%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Ammar777782439&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Ammar's GitHub Stats" />
-      <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar777782439&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ammar777782439&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
+   <p>I believe that a great backend is not just about writing functional code, but about engineering systems that are resilient and efficient. [span_3](start_span)[span_4](start_span)[span_5](start_span)My focus is on creating high-performance APIs, implementing fault-tolerant messaging systems with tools like <b>Apache Kafka</b>, and containerizing applications with <b>Docker</b> for seamless deployment and scalability.[span_3](end_span)[span_4](end_span)[span_5](end_span)</p>
 
-<h3 align="left">🛠️ My Tech Stack</h3>
-<p align="left">
-  
-  <strong>Backend:</strong><br>
-  <a href="https://go.dev/" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"></a>
-  <a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"></a>
-  <br><br>
-  <strong>Databases:</strong><br>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
-  <br><br>
-  <strong>Frontend:</strong><br>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></a>
-  <br><br>
-  <strong>Tools & DevOps:</strong><br>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"></a>
-</p>
-<h3 align="left">🚀 My Learning Roadmap</h3>
-<p align="left">
-  I believe in continuous learning. Here are the technologies I'm excited to dive into next:
-  <br><br>
-  - <strong>gRPC:</strong> For high-performance, language-agnostic communication between microservices.
-  <br>
-  - <strong>Apache Kafka:</strong> To build robust, scalable event-driven architectures.
-  <br>
-  - <strong>Elasticsearch:</strong> To implement powerful, full-text search capabilities in my projects.
-</p>
+   [span_6](start_span)[span_7](start_span)<p>At <a href="https://deepsafer.com/" target="_blank">Deepsafer</a>, I apply my passion for security by designing and developing backend infrastructure for cybersecurity applications, building secure APIs, and implementing advanced measures to protect systems from cyber threats.[span_6](end_span)[span_7](end_span) My goal is to build backend systems that don't just work, but are fundamentally secure and built to last 🛡️.</p>
+</p>    
+
+<br/>
+
+## ⌨️ Feeding My GitHub
+![Snake animation](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg)
+
+<br/>
+
+## ⚙️ Tech Stack & Tools
+
+- ### Programming Languages:
+  <code><img title="Go" alt="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="42px"/></code>
+  <code><img title="Python" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42px"/></code>
+  <code><img title="Java" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42px"/></code>
+  <code><img title="PHP" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="42px"/></code>
+  <code><img title="HTML5" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42px"/></code>
+  <code><img title="CSS3" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42px"/></code>
+<br/>
+
+- ### Backend Frameworks & Technologies:
+  <code><img title="Django" alt="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="42px"/></code>
+  <code><img title="Django REST Framework" alt="Django REST Framework" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-original.svg" height="42px"/></code>
+  <code><img title="Apache Kafka" alt="Apache Kafka" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="42px"/></code>
+  <code><img title="Protobuf" alt="Protobuf" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/protobuf/protobuf-original.svg" height="42px"/></code>
+  <code><img title="RESTful API" alt="RESTful API" src="https://raw.githubusercontent.com/programmersEmperor/programmersEmperor/main/public/rest-api-icon.png" height="42px"/></code>
+  <code><img title="JSON" alt="JSON" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" height="42px"/></code>
+<br/>
+
+- ### Databases:
+  <code><img title="MySQL" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="42px"/></code>
+  <code><img title="PostgreSQL" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="42px"/></code>
+  <code><img title="Oracle" alt="Oracle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="42px"/></code>
+  <code><img title="Firebase" alt="Firebase" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" height="42px"/></code>
+  <code><img title="Redis" alt="Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="42px"/></code>
+  <code><img title="SQL" alt="SQL" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" height="42px"/></code>
+<br/>
+
+- ### DevOps & Tools:
+  <code><img title="Docker" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="42px"/></code>
+  <code><img title="Git" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42px"/></code>
+  <code><img title="GitHub" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42px"/></code>
+  <code><img title="Postman" alt="Postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="42px"/></code>
+  <code><img title="SSL/TLS" alt="SSL/TLS" src="https://raw.githubusercontent.com/programmersEmperor/programmersEmperor/main/public/ssl-icon.png" height="42px"/></code>
+<br/>
+
+## 📈 My GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ammar777782439&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="150" alt="streak graph" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&langs_count=8" />
 </p>

@@ -64,6 +64,6 @@
 
 ## 📈 My GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ammar7777782439&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar7777782439&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ammar7777782439&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar7777782439&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&langs_count=8&cache_seconds=1" />
 </p>

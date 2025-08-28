@@ -4,12 +4,14 @@
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:ammarraghabusiness@gmail.com)
 
-<p style="text-align: justify; font-size: 16px;" >
-   [span_0](start_span)<p>I’m a Backend Developer specializing in building secure, scalable, and production-ready systems[span_0](end_span). [span_1](start_span)My core expertise lies in designing robust system architectures and ensuring data integrity from end to end[span_1](end_span).</p>
-
-   <p>I believe that a great backend is not just about writing functional code, but about engineering systems that are resilient and efficient. My focus is on creating high-performance APIs, implementing fault-tolerant messaging systems with tools like <b>Apache Kafka</b>, and containerizing applications with <b>Docker</b> for seamless deployment and scalability.</p>
-
-   [span_2](start_span)<p>At <a href="https://deepsafer.com/" target="_blank">Deepsafer</a>, I apply my passion for security by designing and developing backend infrastructure for cybersecurity applications[span_2](end_span)[span_3](start_span), building secure APIs[span_3](end_span)[span_4](start_span)[span_5](start_span), and implementing advanced measures to protect systems from cyber threats[span_4](end_span)[span_5](end_span). My goal is to build backend systems that don't just work, but are fundamentally secure and built to last 🛡️.</p>
+<p style="text-align: justify; font-size: 16px;">
+   I’m a Backend Developer specializing in building secure, scalable, and production-ready systems. My core expertise lies in designing robust system architectures and ensuring data integrity from end to end.
+</p>
+<p style="text-align: justify; font-size: 16px;">
+   I believe that a great backend is not just about writing functional code, but about engineering systems that are resilient and efficient. My focus is on creating high-performance APIs, implementing fault-tolerant messaging systems with tools like <b>Apache Kafka</b>, and containerizing applications with <b>Docker</b> for seamless deployment and scalability.
+</p>
+<p style="text-align: justify; font-size: 16px;">
+   At <a href="https://deepsafer.com/" target="_blank">Deepsafer</a>, I apply my passion for security by designing and developing backend infrastructure for cybersecurity applications, building secure APIs, and implementing advanced measures to protect systems from cyber threats. My goal is to build backend systems that don't just work, but are fundamentally secure and built to last 🛡️.
 </p>    
 
 <br/>
@@ -28,6 +30,7 @@
   <code><img title="PHP" alt="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="42px"/></code>
   <code><img title="HTML5" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42px"/></code>
   <code><img title="CSS3" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42px"/></code>
+
 <br/>
 
 - ### Backend Frameworks & Technologies:
@@ -37,6 +40,7 @@
   <code><img title="Protobuf" alt="Protobuf" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/protobuf/protobuf-original.svg" height="42px"/></code>
   <code><img title="RESTful API" alt="RESTful API" src="https://raw.githubusercontent.com/programmersEmperor/programmersEmperor/main/public/rest-api-icon.png" height="42px"/></code>
   <code><img title="JSON" alt="JSON" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" height="42px"/></code>
+
 <br/>
 
 - ### Databases:
@@ -46,6 +50,7 @@
   <code><img title="Firebase" alt="Firebase" src="https://raw.githubusercontent.com/github/explore/main/topics/firebase/firebase.png" height="42px"/></code>
   <code><img title="Redis" alt="Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="42px"/></code>
   <code><img title="SQL" alt="SQL" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" height="42px"/></code>
+
 <br/>
 
 - ### DevOps & Tools:
@@ -54,6 +59,7 @@
   <code><img title="GitHub" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42px"/></code>
   <code><img title="Postman" alt="Postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="42px"/></code>
   <code><img title="SSL/TLS" alt="SSL/TLS" src="https://raw.githubusercontent.com/programmersEmperor/programmersEmperor/main/public/ssl-icon.png" height="42px"/></code>
+
 <br/>
 
 ## 📈 My GitHub Stats

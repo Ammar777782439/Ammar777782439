@@ -10,9 +10,9 @@
 <p style="text-align: justify; font-size: 16px;">
    I believe that a great backend is not just about writing functional code, but about engineering systems that are resilient and efficient. My focus is on creating high-performance APIs, implementing fault-tolerant messaging systems with tools like <b>Apache Kafka</b>, and containerizing applications with <b>Docker</b> for seamless deployment and scalability.
 </p>
-<p style="text-align: justify; font-size: 16px;">
+<!-- <p style="text-align: justify; font-size: 16px;">
    At <a href="https://deepsafer.com/" target="_blank">Deepsafer</a>, I apply my passion for security by designing and developing backend infrastructure for cybersecurity applications, building secure APIs, and implementing advanced measures to protect systems from cyber threats. My goal is to build backend systems that don't just work, but are fundamentally secure and built to last 🛡️.
-</p>    
+</p>     -->
 
 <br/>
 
